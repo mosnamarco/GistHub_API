@@ -1,0 +1,17 @@
+# environment specific
+venv/
+.env
+
+# compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# development and debugging tools
+debug.py
+
+# large files or data
+*.log
+*.csv
+*.h5
+*.pth
